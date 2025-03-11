@@ -1,4 +1,4 @@
-# 🚀 Sachin Bhardwaj | Frontend Engineer
+# Sachin Bhardwaj | Frontend Engineer
 
 ## 🌟 About Me
 
@@ -11,7 +11,7 @@
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/sachinbhardwajus/)  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=black)](https://github.com/SachinBhardwaj1)  [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://sachinbhardwaj.netlify.app/)  
 
@@ -30,27 +30,59 @@
 
 ---
 
+## 🎓 Certifications
+
+- 📜 **AWS Certified Solutions Architect – Associate**  
+  [![AWS Badge](https://img.shields.io/badge/AWS-Certified-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](YOUR_CERTIFICATE_LINK)
+
+- 📜 **Microsoft Certified: Azure Fundamentals (AZ-900)**  
+  [![Azure Badge](https://img.shields.io/badge/Microsoft%20Azure-Certified-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](YOUR_CERTIFICATE_LINK)
+
+- 📜 **Microsoft 365 Fundamentals (MS-900)**  
+  [![MS Badge](https://img.shields.io/badge/Microsoft-MS--900-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](YOUR_CERTIFICATE_LINK)
+
+- 📜 **Big Data: Oracle**  
+  [![Oracle Badge](https://img.shields.io/badge/Oracle-Big%20Data-F80000?style=for-the-badge&logo=oracle&logoColor=white)](YOUR_CERTIFICATE_LINK)
+
+- 📜 **Java: Oracle**  
+  [![Oracle Java Badge](https://img.shields.io/badge/Oracle-Java-F80000?style=for-the-badge&logo=oracle&logoColor=white)](YOUR_CERTIFICATE_LINK)
+
+- 📜 **JavaScript Certification (Udemy)**  
+  [![JavaScript Badge](https://img.shields.io/badge/JavaScript-Udemy-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](YOUR_CERTIFICATE_LINK)
+
+- 📜 **AWS: Introduction to AI**  
+  [![AWS AI Badge](https://img.shields.io/badge/AWS-Intro%20to%20AI-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](YOUR_CERTIFICATE_LINK)
+
+- 📜 **Cloud Security – Skillsoft**  
+  [![Skillsoft Badge](https://img.shields.io/badge/Cloud%20Security-Skillsoft-FF4500?style=for-the-badge&logo=cloudflare&logoColor=white)](YOUR_CERTIFICATE_LINK)
+
+---
+
 ## 📊 GitHub Stats
 
 ![Sachin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SachinBhardwaj1&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SachinBhardwaj1&layout=compact&theme=radical)  
 
+## 📊 GitHub Contribution Graph
+
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=SachinBhardwaj1&theme=react-dark&hide_border=true)
+
 ## 🏆 GitHub Trophies
 
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=SachinBhardwaj1&theme=radical&margin-w=15)
 
-## 📈 GitHub Contribution Graph
-![GitHub Contribution Graph](https://raw.githubusercontent.com/SachinBhardwaj1/output/github-contribution-grid-snake.svg)
+## 🔥 LeetCode Stats
 
-## 🔥 LeetCode Streak
 ![LeetCode Stats](https://leetcard.jacoblin.cool/sachinbhardwaj?theme=dark&font=ABeeZee&ext=heatmap)
 
-## 🏆 LeetCode Trophies
 
-![LeetCode Trophies](https://leetcard.jacoblin.cool/sachinbhardwaj?theme=dark&font=ABeeZee&ext=activity)
+## 🏆 Badges
+
+[![GitHub Badge](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SachinBhardwaj1)
+[![LeetCode Badge](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/sachinbhardwaj/)
+
 
 ---
 
-## 💡 Dev Quotes
-📜 *“Simplicity is the soul of efficiency.”* ~ **Austin Freeman**  
+## 💡 Dev Quote 
 🎯 *“Code is like humor. When you have to explain it, it’s bad.”* ~ **Cory House**
