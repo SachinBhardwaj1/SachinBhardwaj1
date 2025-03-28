@@ -14,7 +14,6 @@
 
   - 💻 **Frontend Engineer** with expertise in **React, Next.js, TypeScript, and UI/UX Design**.  
   - 🎯 Passionate about crafting **high-performance and scalable web applications**.  
-  - ⚡ Ex-TCS, Ex-Accenture – Optimized **API performance**, reducing page load time by **1.5 seconds**.  
   - 📚 Always exploring **System Design, Performance Optimization, and Cloud Solutions**.  
   - 🏆 Love solving **LeetCode problems** and contributing to **open-source projects**.  
   - 🌍 Enthusiastic about **Cloud Computing, Microservices, and Full-Stack Development**.  
