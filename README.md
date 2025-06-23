@@ -14,9 +14,8 @@
 
   - 💻 **Frontend Engineer** with expertise in **React, Next.js, TypeScript, and UI/UX Design**.  
   - 🎯 Passionate about crafting **high-performance and scalable web applications**.  
-  - 📚 Always exploring **System Design, Performance Optimization, and Cloud Solutions**.  
-  - 🏆 Love solving **LeetCode problems** and contributing to **open-source projects**.  
-  - 🌍 Enthusiastic about **Cloud Computing, Microservices, and Full-Stack Development**.  
+  - 📚 Currently exploring **AI, LLMs, System Design, and Cloud Solutions**.  
+  - 🏆 Love solving **LeetCode problems** and contributing to **open-source projects**. 
 
 ---
 
@@ -63,11 +62,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SachinBhardwaj1&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
-## 📊 GitHub Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SachinBhardwaj1&theme=react-dark&hide_border=true" alt="GitHub Contribution Graph" />
-</p>
 
 ## 🏆 GitHub Trophies
 
