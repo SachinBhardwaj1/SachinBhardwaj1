@@ -14,7 +14,7 @@
 
   - 💻 **Frontend Engineer** with expertise in **React, Angular, Next.js, JavaScript, TypeScript, and UI Design**.  
   - 🎯 Passionate about crafting **high-performance and scalable web applications**.  
-  - 📚 Currently exploring **AI, LLMs, System Design, and Cloud Solutions**.  
+  - 📚 Currently exploring **AI, LLMs, System Design, and Cloud Architecture**.  
   - 🏆 Love solving **LeetCode problems** and contributing to **open-source projects**. 
 
 ---
