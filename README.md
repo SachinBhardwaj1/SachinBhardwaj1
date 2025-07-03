@@ -19,22 +19,6 @@
 
 ---
 
-## 🌐 Let's Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/sachinbhardwajus/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/SachinBhardwaj1">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://sachinbhardwaj.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-</p>
-
----
-
 ## ⚙️ Tech Stack
 
 <p align="center">
@@ -73,6 +57,22 @@
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/sachinbhardwaj?theme=dark&font=ABeeZee&ext=heatmap" alt="LeetCode Stats" />
+</p>
+
+---
+
+## 🌐 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sachinbhardwajus/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/SachinBhardwaj1">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://sachinbhardwaj.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
 </p>
 
 ---
