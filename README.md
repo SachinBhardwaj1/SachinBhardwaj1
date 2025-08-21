@@ -15,7 +15,7 @@
   - 💻 **Frontend Engineer** with expertise in **React, Angular, Next.js, JavaScript, TypeScript, and UI Design**.  
   - 🎯 Passionate about crafting **high-performance and scalable web applications**.  
   - 📚 Currently exploring and learning **AI, LLMs, RAG & System Design**.  
-  - 🏆 Love solving **LeetCode problems** and contributing to **open-source projects**. 
+  - 🏆 Solving **LeetCode problems** and contributing to **open-source projects**.
 
 ---
 
@@ -23,6 +23,7 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,mongodb,postgresql,aws,docker,git,angular,cypress" />
+
 </p>
 
 ---
