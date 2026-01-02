@@ -37,13 +37,6 @@
 
 ---
 
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SachinBhardwaj1&theme=radical&margin-w=15" alt="GitHub Trophy" />
-</p>
-
 ## 🔥 LeetCode Stats
 
 <p align="center">
