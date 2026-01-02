@@ -45,7 +45,7 @@
 
 ---
 
-## 🌐 Let's Connect
+## 🌐 Connect with me on
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sachinbhardwajus/">
